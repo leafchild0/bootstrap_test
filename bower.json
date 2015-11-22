@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap test",
+  "authors": [
+    "Victor Malyshev <vmalyshev0@gmail.com>"
+  ],
+  "description": "Test project from Coursera course + some tests",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}
